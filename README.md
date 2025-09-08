@@ -29,6 +29,3 @@ This is a Spring Cloud Config Server application. It serves configuration files 
 
 ## Troubleshooting
 - If clients receive 404 errors, check the repo for missing config files and verify the server is running.
-
-## License
-MIT
